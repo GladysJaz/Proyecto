@@ -1,0 +1,264 @@
+*{
+    color:white;
+    background-color:#000000;
+}
+
+hr.Ac {
+  height: 2px;
+  background-color:rgb(250, 131, 186);
+  width: 300px;
+ 
+}
+
+.button {
+    background: #a63e6e;
+    color: white;
+    margin: 65px;
+    font-size: 1.25em;
+    text-align: center;
+    text-decoration:none;
+    width: 50px;
+    height: 50px;
+}
+
+
+.leer{
+    background:seashell;
+    color: rgb(199, 8, 189);
+    text-decoration:none;
+    font-size: 1.9em;
+    text-align: left;
+}
+
+
+
+/*-----------ETIQUETAS DIV------------*/
+     /* Div principal*/
+div.div1 {
+   background-color: #000000;
+   margin:30px;
+   width: 900px;
+   height: 600px;
+   text-align:left;
+   float:right;
+  }
+
+     /*Div color vino*/
+div.div2 {
+
+   width: 250px;
+   height: 1000px;
+   background-color:#a63e6e;
+   float:left;
+   position: fixed;
+
+  }
+    /*Div¨s color gris*/
+div.div3 {
+    margin: 10px;
+    width: 430px;
+    height: 300px;
+    background-color:rgb(53, 54, 54);
+    float:right;
+    
+   }
+
+div.div4 {
+    margin: 10px;
+    width: 430px;
+    height: 300px;
+    background-color:rgb(53, 54, 54);
+    float:right;
+    
+   }
+   /* Div Perfil personal*/
+
+div.div5 {
+    margin: 10px;
+    width: 800px;
+    height: 300px;
+    text-align: justify;
+   
+   }
+  
+    /*Div Educación*/
+div.div6 {
+    margin: 10px;
+    width: 900px;
+    height: 300px;
+
+   }
+
+   div.div7 {
+    margin: 20px;
+    width: 620px;
+    height: 50px;
+    text-align:right;
+    
+   }
+
+   div.div8 {
+    margin: 0px;
+    width: 400px;
+    height: 250px;
+    float:left;
+    
+
+   }
+   div.div9 {
+    margin: 0px;
+    width: 120px;
+    height: 250px;
+    float:right;
+    
+   }
+
+   div.div10 {
+    margin: 0px;
+    width: 830px;
+    height: px;
+    text-align:center;
+    float: right;
+   
+   }
+   a.button1{
+    margin: 10px;
+    width: 900px;
+    height: 300px;
+   }
+
+/* -----------IMAGENES-------*/
+      /*imagen YO*/
+img#imagen1 {
+    width: 100px;
+    background: #a63e6e;
+    margin-top: 40px ;
+    margin-right: 40px ;
+    margin-left: 55px;
+}
+      /*imagen bienestar*/
+img#imagen2{
+    width: 400px;
+    float:left;
+    padding: 10px;
+    
+}
+     /*imagen Educación*/
+img#imagen3{
+    width: 400px;
+    float:right;
+    padding: 10px;
+}
+
+     /*imagen face*/
+td, img {
+  
+    width: 40px;
+    float:left;
+    padding: 10px;
+  
+}
+  /*imagen mineria */
+  img#imagen4{
+    width: 50px;
+    float:left;
+    background-color:rgb(53, 54, 54);
+}
+
+  img#img5 { 
+    width: 400px;
+    float:left;
+    padding: 10px;
+
+}
+
+ 
+
+/*----------TITULOS----------*/
+h1.t1 {
+    background:#a63e6e;
+}
+
+h2 {
+    text-align: center;
+}
+h2.md {
+    background-color:rgb(53, 54, 54);
+}
+
+h1{
+    text-align: center;
+}
+/*-----------PARRAFOS---------*/
+p.p00 {
+    background: #a63e6e;
+    text-align: center;
+}
+
+ /*PARRAFOS*/
+p.pi {
+    text-align: center;
+
+}
+p.p0 {
+    text-align: center;   
+}
+
+p.p1 {
+    text-align:justify;
+    padding: 10px;
+}
+
+p.p2 {
+    text-align: justify;
+}
+
+p.p3 {
+    float: left;
+    text-align: justify;
+}
+
+p.mc {
+    background-color:rgb(53, 54, 54);
+    text-align: justify;
+    padding: 40px;
+
+}
+
+
+/*EFECTOS*/
+
+a:hover {
+    color:black;
+    background:rgb(255, 255, 255);
+
+}
+
+tr,a :hover {
+    background:#d10ceb;
+}
+
+.div4 :hover {
+    background-color:snow;
+    color:#d10ceb;
+}
+.div3 :hover {
+    background-color:snow;
+    color:#d10ceb;
+}
+form{
+    width: 500px;
+    margin: auto;
+}
+input,button {
+    margin: auto;
+    width: 60px;
+    height: 60px;
+}
+
+input, text {
+    width:300px;
+    height:100;
+    margin-top: 20px;
+    background-color:rgb(46, 3, 39);
+}
